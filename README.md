@@ -10,17 +10,23 @@ Este projeto tem como objetivo analisar dados estatísticos fornecidos pelo Banc
 
 Os dados analisados foram extraídos de um arquivo .CSV disponibilizado pelo Banco Mundial e contêm informações sobre:
 
-**Censos Populacionais** (Última coleta de dados populacionais)
-**Pesquisas de Domicílios** (Última pesquisa realizada sobre condições de vida)
-**Registro Civil Completo** (Completude dos registros vitais)
-**Dados Agrícolas** (Última coleta de dados sobre agricultura)
-**Dados Industriais** (Última coleta de dados sobre a indústria)
-**Dados Comerciais e de Comércio** (Últimos dados sobre comércio)
-**Dados sobre Retirada de Água** (Últimos dados sobre consumo de água)
+**Censos Populacionais** (Última coleta de dados populacionais) 
+
+**Pesquisas de Domicílios** (Última pesquisa realizada sobre condições de vida) 
+
+**Registro Civil Completo** (Completude dos registros vitais) 
+
+**Dados Agrícolas** (Última coleta de dados sobre agricultura) 
+
+**Dados Industriais** (Última coleta de dados sobre a indústria) 
+
+**Dados Comerciais e de Comércio** (Últimos dados sobre comércio) 
+
+**Dados sobre Retirada de Água** (Últimos dados sobre consumo de água) 
 
 ---
 
-##🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 Python (Bibliotecas: pandas, matplotlib, seaborn)
 Jupyter Notebook
